@@ -4,3 +4,6 @@ It should not be here.
 It should be done like other ways.
 Added some change after commit no.2 in main
 made some changes to take care of.
+made some changes to take care of.
+made changes for main
+made changes after merging to main
